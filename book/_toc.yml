@@ -107,3 +107,9 @@ parts:
       - file: VT/VT_2_uitwerkingen
       - file: VT/_opgaven
       - file: VT/_uitwerkingen
+  
+  - caption: Diverse
+    chapters:
+    - file: references.md
+    - file: changelog.md
+    - file: credits.md
