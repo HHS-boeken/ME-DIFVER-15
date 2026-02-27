@@ -407,7 +407,7 @@ Hieruit volgt:
 
 $A $ invullen geeft:
 \begin{align}
- 2 \cdot -\dfrac{1}{2} - 3B &= 2 \\
+ 2 \cdot -\dfrac{1}{2} - 3B &= -2 \\
   -3B &= -1 \\
   B &= \dfrac{1}{3} \qquad {\color{blue} \text{(1p)}}
 \end{align}
